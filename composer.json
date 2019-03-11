@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "pinepain/amqpy": "*",
+        "overherz/amqpy": "*",
         "illuminate/config": "*",
         "illuminate/container": "*",
         "illuminate/events": "*"
