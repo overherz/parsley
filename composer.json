@@ -1,5 +1,5 @@
 {
-    "name": "pinepain/parsley",
+    "name": "overherz/parsley",
     "type": "library",
     "description": "Parsley is a lightweight and flexible framework to build distributed queue system.",
     "keywords": ["rabbitmq", "amqp", "message", "queue", "task", "manager", "distributed"],
